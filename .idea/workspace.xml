@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4c984b4-b025-4c46-b674-22e73aea31fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/works/thumbs/50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/works/thumbs/51.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/works/thumbs/52.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/works/thumbs/60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/works/thumbs/61.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/works/thumbs/62.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -59,7 +53,7 @@
       <updated>1582173432881</updated>
       <workItem from="1582173434271" duration="112000" />
       <workItem from="1582175827976" duration="2075000" />
-      <workItem from="1582244177431" duration="10779000" />
+      <workItem from="1582244177431" duration="11340000" />
     </task>
     <servers />
   </component>
