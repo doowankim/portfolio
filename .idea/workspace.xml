@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4c984b4-b025-4c46-b674-22e73aea31fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/about.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/works/thumbs/30.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/works/thumbs/31.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/works/thumbs/32.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/works/thumbs/33.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/works/thumbs/40.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/works/thumbs/41.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/works/thumbs/42.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/works/thumbs/43.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/works/thumbs/50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/works/thumbs/51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/works/thumbs/52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/works/thumbs/60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/works/thumbs/61.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/works/thumbs/62.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/color/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/color/default.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +59,7 @@
       <updated>1582173432881</updated>
       <workItem from="1582173434271" duration="112000" />
       <workItem from="1582175827976" duration="2075000" />
-      <workItem from="1582244177431" duration="8088000" />
+      <workItem from="1582244177431" duration="10779000" />
     </task>
     <servers />
   </component>
