@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4c984b4-b025-4c46-b674-22e73aea31fb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -36,6 +37,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/screenshots" />
       <recent name="$PROJECT_DIR$/img/works/thumbs" />
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/img/works" />
@@ -53,7 +55,11 @@
       <updated>1582173432881</updated>
       <workItem from="1582173434271" duration="112000" />
       <workItem from="1582175827976" duration="2075000" />
-      <workItem from="1582244177431" duration="11340000" />
+      <workItem from="1582244177431" duration="13034000" />
+      <workItem from="1582506797808" duration="247000" />
+      <workItem from="1583294869963" duration="36000" />
+      <workItem from="1583801119980" duration="1968000" />
+      <workItem from="1583806013656" duration="412000" />
     </task>
     <servers />
   </component>
